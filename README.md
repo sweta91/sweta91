@@ -88,8 +88,14 @@ Frontend examples and styling experiments covering HTML, CSS, and SCSS.
 
 ## 🎓 Certifications & Learning
 
--   **Meta React Specialization / React coursework** --- Coursera
--   **Generative AI: Prompt Engineering Basics**
+- **Meta React Specialization** — Coursera  
+  React development, component-based architecture, JSX, state management, forms, and modern React development.
+
+- **Advanced React** — Coursera / Meta  
+  Advanced React concepts including reusable components, hooks, state management, forms, and application development.
+
+- **Generative AI: Prompt Engineering Basics**  
+  Prompt engineering fundamentals, effective prompting techniques, and working with generative AI tools.
 
 
 
