@@ -37,7 +37,7 @@ focus on clean UI, reusable components, and performance.
 `Component-Based UI`
 
 **Libraries & Tools**\
-`Chakra UI` · `Formik` · `Yup` · `Font Awesome` · `Git` · `GitHub` ·
+`Bootstrap` · `elementor` · `Ant design` · `Font Awesome` · `Git` · `GitHub` ·
 `Figma` · `Chrome DevTools`
 
 **AI & Learning**\
