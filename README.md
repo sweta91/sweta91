@@ -61,9 +61,9 @@ frontend application structure.
 
 -   **Source code:**
     [react-task-manager](https://github.com/sweta91/react-task-manager)
-    ## 🚀 Live Demo
+## 🚀 Live Demo
 
-    👉 [View Live Demo](https://sweta91.github.io/react-task-manager/)
+👉 [View Live Demo](https://sweta91.github.io/react-task-manager/)
 
 ### 3. React Learning Projects
 
@@ -73,7 +73,7 @@ developing my React skills.
 -   **Source code:** [React
     repository](https://github.com/sweta91/React)
 
-    ## 🚀 Live Demo
+## 🚀 Live Demo
 
 👉 **[View Live React Projects](https://sweta91.github.io/React/)**
 
