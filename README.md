@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Sweta Patil 👋
 
 ### Senior Frontend / UI Developer
@@ -55,9 +55,7 @@ A portfolio website presenting my frontend work and UI projects.
     repository](https://github.com/sweta91/sweta.ui)
 
 ```{=html}
-<!-- Add your screenshot at assets/screenshots/portfolio-home.png, then uncomment:
-![Portfolio website screenshot](assets/screenshots/portfolio-home.png)
--->
+
 ```
 ### 2. React Task Manager
 
@@ -68,9 +66,7 @@ frontend application structure.
     [react-task-manager](https://github.com/sweta91/react-task-manager)
 
 ```{=html}
-<!-- Add your screenshot at assets/screenshots/react-task-manager.png, then uncomment:
-![React Task Manager screenshot](assets/screenshots/react-task-manager.png)
--->
+
 ```
 ### 3. React Learning Projects
 
@@ -87,17 +83,14 @@ Frontend examples and styling experiments covering HTML, CSS, and SCSS.
 -   **Source code:** [FrontEnd
     repository](https://github.com/sweta91/FrontEnd)
 
-> **Tip:** Add screenshots for your best projects in an
-> `assets/screenshots/` folder and uncomment the relevant image lines
-> above. Use screenshots captured from your own projects.
+
 
 ## 🎓 Certifications & Learning
 
 -   **Meta React Specialization / React coursework** --- Coursera
 -   **Generative AI: Prompt Engineering Basics**
 
-*Add links to the credential pages here if you have public certificate
-URLs.*
+
 
 ## 📫 Connect With Me
 
@@ -105,11 +98,11 @@ URLs.*
 -   **LinkedIn:** https://www.linkedin.com/in/sweta-patil-a5711a69/
 -   **Behance:** https://www.behance.net/swetapatil
 -   **GitHub:** https://github.com/sweta91
--   **Email:** Add your preferred professional email address here.
+-   **Email:** swetapatil1991@gmail.com
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 *Thanks for visiting my profile! Feel free to explore my repositories
 and connect.*
-:::
+
