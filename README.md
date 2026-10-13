@@ -54,9 +54,6 @@ A portfolio website presenting my frontend work and UI projects.
 -   **Source code:** [View
     repository](https://github.com/sweta91/sweta.ui)
 
-```{=html}
-
-```
 ### 2. React Task Manager
 
 A React project focused on interactive task-management functionality and
@@ -67,9 +64,7 @@ frontend application structure.
     ## 🚀 Live Demo
 
     👉 [View Live Demo](https://sweta91.github.io/react-task-manager/)
-```{=html}
 
-```
 ### 3. React Learning Projects
 
 A collection of React practice and learning work as I continue
@@ -77,6 +72,10 @@ developing my React skills.
 
 -   **Source code:** [React
     repository](https://github.com/sweta91/React)
+
+    ## 🚀 Live Demo
+
+👉 **[View Live React Projects](https://sweta91.github.io/React/)**
 
 ### 4. Frontend UI Experiments
 
