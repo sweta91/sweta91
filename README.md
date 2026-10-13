@@ -10,7 +10,7 @@ focus on clean UI, reusable components, and performance.
 [LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69/) ·
 [Behance](https://www.behance.net/swetapatil) ·
 [GitHub](https://github.com/sweta91)
-:::
+
 
 ------------------------------------------------------------------------
 
