@@ -86,16 +86,13 @@ Frontend examples and styling experiments covering HTML, CSS, and SCSS.
 
 
 
-## 🎓 Certifications & Learning
+## 🎓 Certifications
 
-- **Meta React Specialization** — Coursera  
-  React development, component-based architecture, JSX, state management, forms, and modern React development.
-
-- **Advanced React** — Coursera / Meta  
-  Advanced React concepts including reusable components, hooks, state management, forms, and application development.
-
-- **Generative AI: Prompt Engineering Basics**  
-  Prompt engineering fundamentals, effective prompting techniques, and working with generative AI tools.
+- 🥇 **Meta React Specialization** — Meta | September 2026
+- ⚛️ **Advanced React** — Meta | September 2026
+- 🤖 **Generative AI: Prompt Engineering Basics** — IBM | April 2026
+- 🅰️ **Shaping Up With AngularJS** — Code School
+- 📊 **Business Analysis Crash Course** — YESI EDUCATION | December 2025
 
 
 
