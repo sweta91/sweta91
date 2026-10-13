@@ -3,8 +3,9 @@
 
 ### Senior Frontend / UI Developer
 
-I build responsive, accessible, and user-focused web interfaces with a
-focus on clean UI, reusable components, and performance.
+I'm a Senior Frontend / UI Developer focused on building responsive,
+accessible and user-centered web experiences. I also explore Generative AI
+and Prompt Engineering, creating and experimenting with AI prompts on PromptBase.
 
 [Portfolio](https://sweta91.github.io/sweta.ui/) ·
 [LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69/) ·
@@ -96,13 +97,13 @@ Frontend examples and styling experiments covering HTML, CSS, and SCSS.
 
 
 
-## 📫 Connect With Me
+### 🔗 Connect With Me
 
--   **Portfolio:** https://sweta91.github.io/sweta.ui/
--   **LinkedIn:** https://www.linkedin.com/in/sweta-patil-a5711a69/
--   **Behance:** https://www.behance.net/swetapatil
--   **GitHub:** https://github.com/sweta91
--   **Email:** swetapatil1991@gmail.com
+- 🌐 [Portfolio](https://sweta91.github.io/sweta.ui/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69)
+- 🎨 [Behance](https://www.behance.net/swetapatil)
+- 🤖 [PromptBase](https://promptbase.com/profile/swetapatil)
+- 🐙 [GitHub](https://github.com/sweta91)
 
 ------------------------------------------------------------------------
 
