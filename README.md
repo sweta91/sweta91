@@ -64,7 +64,9 @@ frontend application structure.
 
 -   **Source code:**
     [react-task-manager](https://github.com/sweta91/react-task-manager)
+    ## 🚀 Live Demo
 
+    👉 [View Live Demo](https://sweta91.github.io/react-task-manager/)
 ```{=html}
 
 ```
