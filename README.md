@@ -1,113 +1,161 @@
 
-# Hi, I'm Sweta Patil 👋
+<h1 align="center">Hi 👋, I'm Sweta Patil</h1>
 
-### Senior Frontend / UI Developer
+<h3 align="center">
+Senior Frontend Developer | React.js | Next.js | TypeScript | UI Engineering
+</h3>
 
-I'm a Senior Frontend / UI Developer focused on building responsive,
-accessible and user-centered web experiences. I also explore Generative AI
-and Prompt Engineering, creating and experimenting with AI prompts on PromptBase.
+<p align="center">
+  <a href="https://sweta91.github.io/sweta.ui/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sweta-patil-a5711a69/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/sweta91">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-[Portfolio](https://sweta91.github.io/sweta.ui/) ·
-[LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69/) ·
-[Behance](https://www.behance.net/swetapatil) ·
-[GitHub](https://github.com/sweta91)
-
-
-------------------------------------------------------------------------
+---
 
 ## 👩‍💻 About Me
 
--   Senior UI / Frontend Developer with **10+ years of experience**
-    building web interfaces.
--   Experienced in translating designs and requirements into responsive,
-    maintainable user experiences.
--   Working with **React and next.js**, alongside core frontend
-    technologies.
--   Interested in design systems, UI architecture, accessibility,
-    performance, and AI-assisted development.
--   Always learning and building projects that combine thoughtful design
-    with solid frontend engineering.
+I'm a Senior Frontend Developer with **10+ years of experience** in designing and developing responsive, scalable, and high-performance web applications.
 
-## 🧰 Tech Stack
+I specialize in transforming complex business requirements and UI/UX designs into intuitive, accessible, and user-friendly digital experiences.
 
-**Frontend**\
-`React` · `Next.js` · `JavaScript` · `HTML5` · `CSS3` · `SCSS` · `jQuery`
+My expertise includes modern frontend technologies, API integration, database connectivity, payment gateway integration, and scalable web application development.
 
-**UI Engineering**\
-`Responsive Design` · `Flexbox` · `CSS Grid` · `BEM` · `Accessibility` ·
-`Component-Based UI`
+- 💼 10+ years of experience in Frontend & UI Development.
+- ⚛️ Experienced in React.js, Next.js, JavaScript and TypeScript.
+- 🎨 Strong expertise in UI/UX implementation and responsive design.
+- 🧩 Reusable components and scalable frontend architecture.
+- 🔗 REST API integration and backend connectivity.
+- 💳 Payment Gateway Integration – Razorpay.
+- 🗄️ Database integration and data management.
+- 🤖 Generative AI and Prompt Engineering.
+- 🚀 Exploring modern web technologies and AI-powered applications.
 
-**Libraries & Tools**\
-`Bootstrap` · `elementor` · `Ant design` · `Font Awesome` · `Git` · `GitHub` ·
-`Figma` · `Chrome DevTools`
+---
 
-**AI & Learning**\
-`Generative AI` · `Prompt Engineering`
+## 🛠️ Technical Skills
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,jquery" />
+</p>
+
+### UI Development & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,figma" />
+</p>
+
+### Backend & API Integration
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST API Integration
+- API Request & Response Handling
+- Authentication & Authorization
+- Form Validation
+- Backend Connectivity
+
+### Database & Data Management
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+- Database Integration
+- CRUD Operations
+- Data Fetching and Management
+- Database Connectivity
+
+### Payment Gateway Integration
+
+- Razorpay Payment Gateway
+- Payment Checkout Integration
+- Payment Order Creation
+- Payment Status Handling
+- Payment Verification Workflow
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+</p>
+
+### Additional Skills
+
+- Responsive Web Design
+- Flexbox & CSS Grid
+- BEM Methodology
+- Cross-browser Compatibility
+- UI Performance Optimization
+- Agile & Scrum Fundamentals
+- Generative AI & Prompt Engineering
+
+---
 
 ## 🚀 Featured Projects
 
-### 1. Personal Portfolio Website
+### 1. MediBook – Healthcare Appointment Platform
 
-A portfolio website presenting my frontend work and UI projects.
+A healthcare appointment booking platform featuring patient, doctor, and admin workflows.
 
--   **Built with:** HTML, CSS, responsive UI
--   **Live demo:** [sweta.ui](https://sweta91.github.io/sweta.ui/)
--   **Source code:** [View
-    repository](https://github.com/sweta91/sweta.ui)
+**Technologies:** Next.js, React.js, TypeScript, SCSS
 
-### 2. React Task Manager
+- Doctor listing, search and filtering.
+- Doctor profile and appointment booking.
+- Patient information management.
+- Responsive dashboard interfaces.
 
-A React project focused on interactive task-management functionality and
-frontend application structure.
+🔗 [Live Demo](https://medibook-healthcare-platform.vercel.app/)
 
--   **Source code:**
-    [react-task-manager](https://github.com/sweta91/react-task-manager)
-## 🚀 Live Demo
+### 2. Personal Portfolio
 
-👉 [View Live Demo](https://sweta91.github.io/react-task-manager/)
+A portfolio showcasing my frontend development experience, technical skills and work.
 
-### 3. React Learning Projects
+**Technologies:** HTML, CSS, JavaScript, UI/UX
 
-A collection of React practice and learning work as I continue
-developing my React skills.
+🔗 [View Portfolio](https://sweta91.github.io/sweta.ui/)
 
--   **Source code:** [React
-    repository](https://github.com/sweta91/React)
-
-## 🚀 Live Demo
-
-👉 **[View Live React Projects](https://sweta91.github.io/React/)**
-
-### 4. Frontend UI Experiments
-
-Frontend examples and styling experiments covering HTML, CSS, and SCSS.
-
--   **Source code:** [FrontEnd
-    repository](https://github.com/sweta91/FrontEnd)
-
-
+---
 
 ## 🎓 Certifications
 
-- 🥇 **Meta React Specialization** — Meta | September 2026
-- ⚛️ **Advanced React** — Meta | September 2026
-- 🤖 **Generative AI: Prompt Engineering Basics** — IBM | April 2026
-- 🅰️ **Shaping Up With AngularJS** — Code School
-- 📊 **Business Analysis Crash Course** — YESI EDUCATION | December 2025
+- React Basic and Advanced React – Coursera.
+- Meta React Specialization.
+- Generative AI: Prompt Engineering Basics.
+- Scrum Basics.
 
+---
 
+## 📊 GitHub Statistics
 
-### 🔗 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sweta91&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweta91&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta91&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exploring new technologies, and discussing exciting opportunities.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69/)
 - 🌐 [Portfolio](https://sweta91.github.io/sweta.ui/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sweta-patil-a5711a69)
-- 🎨 [Behance](https://www.behance.net/swetapatil)
-- 🤖 [PromptBase](https://promptbase.com/profile/swetapatil)
-- 🐙 [GitHub](https://github.com/sweta91)
+- 💻 [GitHub](https://github.com/sweta91)
 
-------------------------------------------------------------------------
+<p align="center">
+  <b>Building meaningful digital experiences through technology and creativity.</b>
+</p>
 
-
-*Thanks for visiting my profile! Feel free to explore my repositories
-and connect.*
-
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
