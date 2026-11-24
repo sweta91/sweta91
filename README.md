@@ -51,16 +51,22 @@ My expertise includes modern frontend technologies, API integration, database co
   <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,figma" />
 </p>
 
+
 ### Backend & API Integration
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nextjs,supabase" />
 </p>
 
 - REST API Integration
 - API Request & Response Handling
-- Authentication & Authorization
+- Supabase Database Connectivity
+- Authentication Integration
+- CRUD Operations
 - Form Validation
 - Backend Connectivity
+- Payment API Integration (Razorpay)
+
 
 
 ### Database & Backend
