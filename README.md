@@ -21,7 +21,7 @@ and Prompt Engineering, creating and experimenting with AI prompts on PromptBase
     building web interfaces.
 -   Experienced in translating designs and requirements into responsive,
     maintainable user experiences.
--   Working with **React and Vue.js**, alongside core frontend
+-   Working with **React and next.js**, alongside core frontend
     technologies.
 -   Interested in design systems, UI architecture, accessibility,
     performance, and AI-assisted development.
@@ -31,7 +31,7 @@ and Prompt Engineering, creating and experimenting with AI prompts on PromptBase
 ## 🧰 Tech Stack
 
 **Frontend**\
-`React` · `Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `SCSS` · `jQuery`
+`React` · `Next.js` · `JavaScript` · `HTML5` · `CSS3` · `SCSS` · `jQuery`
 
 **UI Engineering**\
 `Responsive Design` · `Flexbox` · `CSS Grid` · `BEM` · `Accessibility` ·
