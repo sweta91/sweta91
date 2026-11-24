@@ -62,15 +62,19 @@ My expertise includes modern frontend technologies, API integration, database co
 - Form Validation
 - Backend Connectivity
 
-### Database & Data Management
+
+### Database & Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-- Database Integration
+- Supabase Database Integration
+- PostgreSQL (via Supabase)
+- Database Connectivity
 - CRUD Operations
 - Data Fetching and Management
-- Database Connectivity
+- Authentication Integration
 
 ### Payment Gateway Integration
 
