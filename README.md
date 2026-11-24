@@ -76,13 +76,22 @@ My expertise includes modern frontend technologies, API integration, database co
 - Data Fetching and Management
 - Authentication Integration
 
-### Payment Gateway Integration
 
-- Razorpay Payment Gateway
+### 💳 Payment Gateway Integration
+
+<p>
+  <img src="https://cdn.simpleicons.org/razorpay/0C2451" 
+       alt="Razorpay" 
+       width="50" 
+       height="50" />
+</p>
+
+- Razorpay Payment Gateway Integration
 - Payment Checkout Integration
 - Payment Order Creation
 - Payment Status Handling
 - Payment Verification Workflow
+
 
 ### Tools & Technologies
 <p>
